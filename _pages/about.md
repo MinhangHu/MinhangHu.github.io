@@ -1,11 +1,10 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
- - /about/
- - /about.html
+  - /about/
+  - /about.html
 ---
 
 I'm a first year undergraduate student from [School of ESE](https://ese.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). My research interest includes computer vision and computational photography.
